@@ -1,16 +1,16 @@
-#Pig Dice Game
+#  Pig Dice Game
 
 By Ronald otieno
 
-##Description
+##  Description
 
 This web application allows two players to play a game of Pig Dice.
 
-##Specs
+## Specs
 
-##Notes
+##  Notes
 
-##Technologies Used
+##  Technologies Used
 
 HTML
 
@@ -22,11 +22,11 @@ JavaScript
 
 jQuery
 
-##Link
+##  Link
 
 https://ronnieoginga.github.io/pigdice/
 
-##License
+##  License
 
 This software is licensed under the MIT license.
 
